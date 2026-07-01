@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0011-container-with-most-water) |
+| [0496-next-greater-element-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -35,4 +37,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
