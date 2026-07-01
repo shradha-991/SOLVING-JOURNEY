@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0011-container-with-most-water) |
+| [0643-maximum-average-subarray-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0125-valid-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
