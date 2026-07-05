@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0035-search-insert-position) |
@@ -48,10 +49,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0035-search-insert-position) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
