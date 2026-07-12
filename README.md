@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0496-next-greater-element-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
