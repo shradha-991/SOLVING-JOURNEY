@@ -14,31 +14,33 @@ public class Solution {
         ListNode tempA=headA;
         ListNode tempB=headB;
         int lengthA=0;
+        int lengthB=0;
         while(tempA!=null){
             lengthA++;
             tempA=tempA.next;
         }
-        int lengthB=0;
-        while(tempB!=null){
+         while(tempB!=null){
             lengthB++;
             tempB=tempB.next;
         }
         tempA=headA;
         tempB=headB;
-
         if(lengthA>lengthB){
-            int step=lengthA-lengthB;
-            for(int i=1;i<=step;i++){tempA=tempA.next;}
+            int size=lengthA-lengthB;
+            for(int i=1;i<=size;i++){
+                tempA=tempA.next;
+            }
         }else{
-            int step= lengthB-lengthA;
-            for(int i=1;i<=step;i++){tempB=tempB.next;}
-
+            int size=lengthB-lengthA;
+            for(int i=1;i<=size;i++){
+                tempB=tempB.next;
+            }
+            
         }
         while(tempA!=tempB){
             tempA=tempA.next;
             tempB=tempB.next;
         }
-    return tempA;
-        
+        return tempA;
     }
 }
