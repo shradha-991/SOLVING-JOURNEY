@@ -73,6 +73,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0009-palindrome-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0206-reverse-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
