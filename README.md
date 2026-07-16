@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
