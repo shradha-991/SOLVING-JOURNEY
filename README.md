@@ -26,6 +26,7 @@
 | [0141-linked-list-cycle](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -44,6 +45,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
