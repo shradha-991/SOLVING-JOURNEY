@@ -66,6 +66,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0035-search-insert-position) |
+| [0222-count-complete-tree-nodes](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -106,6 +107,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -116,8 +118,13 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
