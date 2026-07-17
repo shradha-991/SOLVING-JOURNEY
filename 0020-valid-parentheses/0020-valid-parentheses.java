@@ -1,18 +1,34 @@
-class Solution {
-    public boolean isValid(String s) {
-        
+import java.util.Scanner;
+import java.util.Stack;
+class ni{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        String s=sc.nextLine();
         Stack <Character> st=new Stack<>();
         for(char ch:s.toCharArray()){
-            if(ch=='('||ch=='{'||ch=='['){
+            if(ch=='(' || ch=='[' || ch=='{'){
                 st.push(ch);
             }
             else{
-                if(st.isEmpty()) return false;
+                if(st.isEmpty()) {
+                    System.out.println (false);
+                     return;}
                 char top=st.pop();
-                if(ch==')'&&top!='(') return false;
-                if(ch=='}'&&top!='{') return false;
-                if(ch==']'&&top!='[') return false;
+                if(ch==')' && top!='(') {
+                    System.out.println(false);
+                     return;}
+                if(ch=='}' && top!='{') {
+                    System.out.println(false); 
+                    return;}
+                if(ch==']' && top!='[') {
+                    System.out.println(false); 
+                    return;}
+
             }
-        }return st.isEmpty();
+               
+        }
+        System.out.println(st.isEmpty());
+        
+        }
     }
-}
+
