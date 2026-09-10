@@ -81,6 +81,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0062-unique-paths) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
@@ -127,4 +128,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0222-count-complete-tree-nodes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
