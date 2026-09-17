@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0064-minimum-path-sum) |
 | [0238-product-of-array-except-self](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0496-next-greater-element-i) |
@@ -132,8 +133,13 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0064-minimum-path-sum) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
