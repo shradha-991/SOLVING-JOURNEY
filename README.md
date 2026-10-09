@@ -17,6 +17,7 @@
 | [0496-next-greater-element-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0704-binary-search) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@
 | [0141-linked-list-cycle](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0496-next-greater-element-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 ## String
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0007-reverse-integer](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0062-unique-paths) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
@@ -105,6 +108,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
@@ -148,9 +152,15 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting
+|  |
+| ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/shradha-991/SOLVING-JOURNEY/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 <!---LeetCode Topics End-->
